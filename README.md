@@ -33,15 +33,15 @@
 
 ## About
 
-clilib-legacy is a java library providing different style additions for command line applications. This might sound pretty useless in the first place (probably because it is), but there might be some cases, where colors actually come in handy.
+email-extractor is a C# CLI-Application that enables you to extract email addresses from almost any website.
 
 ---
 
 ## Features
 
-- ✅ Colors for Text in your CLI-Application
-- ✅ Textstyles for Text in your CLI-Application
-- ✅ Wrapper-Methods for easy usage
+- ✅ Extract email addresses from websites
+- ✅ Show results on CLI
+- ✅ Save results to text file
 
 ---
 
@@ -96,7 +96,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/clilib-legacy
+- **Project Link** - https://github.com/druffko/email-extractor
 
 Feel free to reach out if you have any questions or suggestions!
 
