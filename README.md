@@ -42,6 +42,7 @@ email-extractor is a C# CLI-Application that enables you to extract email addres
 ## Features
 
 - ✅ Extract email addresses from websites
+- ✅ Scans every link on a website
 - ✅ Works on Windows, macOS and Linux
 - ✅ Show results on CLI
 - ✅ Save results to text file

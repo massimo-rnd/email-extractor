@@ -26,5 +26,6 @@ Global
 		Policies = $0
 		$0.StandardHeader = $1
 		$1.Text = @${FileName}\ncreated by ${AuthorName}\nCopyright ${Year} ${AuthorName}
+		version = 1.0
 	EndGlobalSection
 EndGlobal
