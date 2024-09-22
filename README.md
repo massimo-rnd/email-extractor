@@ -4,7 +4,7 @@
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/email-extractor?include_prereleases)
 
-![.NET Version](https://img.shields.io/badge/.NET-7.0-brightgreen)
+![.NET Version](https://img.shields.io/badge/.NET-8.0-brightgreen)
 ![GitHub last commit](https://img.shields.io/github/last-commit/druffko/email-extractor)
 
   <br>
@@ -15,7 +15,7 @@
   
   <h1>email-extractor</h1>
   <p>
-    email-extractor is a C# CLI-Application that enables you to extract email addresses from almost any website.
+    email-extractor is a crossplatform C# CLI-Application that enables you to extract email addresses from almost any website.
   </p>
 </div>
 
@@ -42,6 +42,7 @@ email-extractor is a C# CLI-Application that enables you to extract email addres
 ## Features
 
 - ✅ Extract email addresses from websites
+- ✅ Works on Windows, macOS and Linux
 - ✅ Show results on CLI
 - ✅ Save results to text file
 
