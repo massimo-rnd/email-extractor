@@ -1,3 +1,5 @@
+![Repo-Image](https://druffko.gg/github-images/email-extractor.png)
+
 <div align="center">
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/email-extractor?include_prereleases)
