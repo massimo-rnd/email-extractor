@@ -1,3 +1,9 @@
+# Important Notice
+Please note that the development of this codebase has been surpassed by [KAELUS-Engine](https://github.com/druffko/kaelus-engine). As a result, email-extractor should be regarded as outdated since this code is not receiving any updates.
+
+[KAELUS-Engine](https://github.com/druffko/kaelus-engine) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
+
+
 ![Repo-Image](https://druffko.gg/github-images/email-extractor.png)
 
 <div align="center">
