@@ -1,23 +1,21 @@
 # Important Notice
-Please note that the development of this codebase has been surpassed by [KAELUS-Engine](https://github.com/druffko/kaelus-engine). As a result, email-extractor should be regarded as outdated since this code is not receiving any updates.
+Please note that the development of this codebase has been surpassed by [KAELUS-Engine](https://github.com/massimo-rnd/kaelus-engine). As a result, email-extractor should be regarded as outdated since this code is not receiving any updates.
 
-[KAELUS-Engine](https://github.com/druffko/kaelus-engine) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
+[KAELUS-Engine](https://github.com/massimo-rnd/kaelus-engine) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
 
-
-![Repo-Image](https://druffko.gg/github-images/email-extractor.png)
 
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/email-extractor?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/email-extractor?include_prereleases)
 
 ![.NET Version](https://img.shields.io/badge/.NET-8.0-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/email-extractor)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/email-extractor)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/email-extractor/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/email-extractor)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/email-extractor)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/email-extractor/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/email-extractor)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/email-extractor)
   
   <h1>email-extractor</h1>
   <p>
@@ -59,7 +57,7 @@ email-extractor is a C# CLI-Application that enables you to extract email addres
 
 ### Download the latest version
 
-To start off, please head to the [releases page](https://github.com/druffko/email-extractor/releases) and download the latest release.
+To start off, please head to the [releases page](https://github.com/massimo-rnd/email-extractor/releases) and download the latest release.
 
 *If you don't trust me for some reason, feel free to download the latest released source code and build it your self.*
 
@@ -105,8 +103,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/email-extractor
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/email-extractor
 
 Feel free to reach out if you have any questions or suggestions!
 
